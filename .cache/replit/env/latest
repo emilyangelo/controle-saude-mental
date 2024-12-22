@@ -1,0 +1,55 @@
+declare -gx LANG=en_US.UTF-8
+declare -gx REPLIT_RTLD_LOADER=1
+declare -gx NIXPKGS_ALLOW_UNFREE=1
+declare -gx REPLIT_BASHRC=/nix/store/1dixvnrbgnmg49kwfqfd5by5kvagif3z-replit-bashrc/bashrc
+declare -gx REPL_OWNER_ID=35484545
+declare -gx COLORTERM=truecolor
+declare -gx PROMPT_DIRTRIM=2
+declare -gx DISPLAY=:0
+declare -gx REPL_HOME=/home/runner/MealyWindingCones
+declare -gx REPLIT_PID1_FLAG_NIXMODULES_BEFORE_REPLIT_NIX=1
+declare -gx REPLIT_RIPPKGS_INDICES=/nix/store/72dfj6fpcs0xzy908kb6dkdmh7n4gjia-rippkgs-indices
+declare -gx DIRENV_CONFIG=/etc/direnv
+declare -gx REPLIT_PID1_VERSION=0.0.0-834c799
+declare -gx REPL_ID=47fa4cc7-fb9e-4c1b-aa4c-eebb8b8d486c
+declare -gx REPLIT_ENVIRONMENT=production
+declare -gx XDG_CONFIG_HOME=/home/runner/MealyWindingCones/.config
+declare -gx REPL_LANGUAGE=html
+declare -gx GIT_ASKPASS=replit-git-askpass
+declare -gx USER=runner
+declare -gx REPLIT_DEV_DOMAIN=47fa4cc7-fb9e-4c1b-aa4c-eebb8b8d486c-00-3076pp93gv8fb.kirk.replit.dev
+declare -gx REPL_PUBKEYS='{"crosis-ci":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:1":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:latest":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","prod":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:1":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:2":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:3":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:4":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:5":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:latest":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","vault-goval-token":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:1":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:latest":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E="}'
+declare -gx REPL_IMAGE=gcr.io/marine-cycle-160323/nix:bf8590a3e2f0a8b70b7ca175eeed9074dffbfca9
+declare -gx XDG_CACHE_HOME=/home/runner/MealyWindingCones/.cache
+declare -gx XDG_DATA_HOME=/home/runner/MealyWindingCones/.local/share
+declare -gx REPLIT_SUBCLUSTER=interactive
+declare -gx REPLIT_PID1_FLAG_REPLIT_RTLD_LOADER=1
+declare -gx NIX_PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+declare -gx REPLIT_NIX_CHANNEL=stable-23_11
+declare -gx REPLIT_LD_AUDIT=/nix/store/n5x1kgbz8zjh63ymsijbislyi1n1hir6-replit_rtld_loader-1/rtld_loader.so
+declare -gx HOSTNAME=603064707bd8
+declare -gx HOME=/home/runner
+declare -gx SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPL_IDENTITY=v2.public.Q2lRME4yWmhOR05qTnkxbVlqbGxMVFJqTVdJdFlXRTBZeTFsWldKaU9HSTRaRFE0Tm1NU0NXVnRhV3g1TURsbGVSb1JUV1ZoYkhsWGFXNWthVzVuUTI5dVpYTWlKRFEzWm1FMFkyTTNMV1ppT1dVdE5HTXhZaTFoWVRSakxXVmxZbUk0WWpoa05EZzJZemlCNS9VUVdoTUtCR3RwY21zU0MybHVkR1Z5WVdOMGFYWmxqUhQ718jia529pLww2eCvkAuXhLLiOo6xVNCY4TFx4gsgLHDWOebWZQwSffKCwGVvgyPCTfp5giGSdnegnS4A.R0FFaUJtTnZibTFoYmhLUkNIWXlMbkIxWW14cFl5NVJNbVF6VTFSc2JXSlhaREZrTVd4U1RqTkNVVlJ1YkROVFZrNUZVVmR3Ums0elJuQk9NRXB2VWtWV2MwOUVUazFSVjJoMlVUQmtRbFpYUmt0YU1qbHlWR3RTYTJKV2JGVlZiWEJhWlcxT01GZHRNVXBPVm5CVVRVUkNXbVZyV25CVVJtUkhZVVUxU0ZSWVVtRldNVnB3VjFkd2IyRlZPVWhWVkVKUVVrWndjVkl5WkhwVk1FNVlWbTVTYUZZelp6RlVWVkp6WWtkV1UySXdXbEJUVldoMVQxWktRbGxWU25CVFZWWm9UVzE0TlZsWWFIWlVhM1J1WkVoQ2FXSnNTbk5aTWpGSFlXMVNTR0pFU21GVk1HdDRXVmh3U21SWFRrbFdiV3hwVWpKNGNWUkhlRWRhYXpGelZteHdVbUZyU2pWV1ZtUXpUVlpHVjFOcVdtbGlWbkJoVkRCa2MwMXNjRmRpUlRsUVZrZG9NVlZ0ZUdGU2EzaFlaVVpTVkZaRlNsVlpWVlp6VFRGV2RGVnRSbEJTVkVFNVltNHlSMW95VXpjMU5tMWpYME5ZTlZrNVNWcHFiMVZJYVV4emEzRndWRzlzVTFCbFN6QlNVMEZ2UkVNd01rRk5jR3MyWDBzNFRsUlZSVXQyZUY5d2EwUlVaR2RqTjJWRWJETlpObTQyUzFCR1lUZHBSSGN1VWpCR1JtRlZTblJVYmxwcFlsUkdiMWx0YUUxWmEwWjFWMWhzVFdKclNYaFhWekUwWTBac05VNVdTazVpVmtreVZsUkdhMDFIVm5SVGJGcFVZbTVDVjFadE1UUlZNVkp5VlcxR1RsWnVRbGRWTW5SUFZrWmFXV0ZGVmxabGEwcHlWV3BCTVZOV1JuSlRiRnBPVW14d1UxWnRjRTlaVjFKWFlqTm9VMkpYYUZOV2FrcHZaRlpXV0dSSGRHbGlSVFZZV1d0V1QxWnRTbFZpUlZaV1lXdEtTRnBIZUhOV2JFcDFVbXhLVjFaWVFrcFdNbkJEWXpGa2MxSnNhR2hUUm5CVFZGVmtVMUV4V2tkYVJXUlNZbFZhU1ZkclZYaFZNREYwVld0MFYwMVdXbFJWVkVwS1pERlNjbUZHU2xkaE1YQjJWbFphYTJJeVNuTlVia3BwVTBWYVdGbHRkSGRVTVd4WFZXeGtUazFZUWtoWGExWXdZV3N4Y2xkc2JGZFNiV2hZVmtSR1lXUkhWa2xqUm1SWFlsWktTVlpHVWt0VU1rMTVVMnBhVm1GNmJGaFVWM2hMWWpGWmVVMVVVbFJOYTFwSFZGWldhMVpIU2taWGJGcGFWbnBGTUZkV1duTk9iRVpWVW0xd2FWSllRalpXUkVaWFdWZEZlVk5zYkZaV1JWcFhXV3RhWVdOc2NFaGxSVnBzVW01Q1JsWXlNWGRoUjBWNFkwYzVWMkZyV2xSVmVrWk9aVVphYzFOc1JsZFNSVW96VmpKMFlWZHRUblJqUlRGUVYwVTBlbHBGVmxwT1ZuQkZVbGhTYVdKVVZsRlVNR1JoVlcxS1dHRkVTbFJTVm5CNFZtdFdjbVJIVWtWaFJYQnBZbFp3VVZkRVNYaFdWVEYwV1hwU2FsZElRa1pWYTJSV1RrWmFSV0pHVW1oTlZrbzJWMjE0YjJKWFZuSmlla0pZVmxVeE5sZHRjM2RsYkdSV1RsaEtWRlpIVWxsWFYydDNUbFpLY2xWdE9VOWhWRVpNVkdwSk5WSkZlSE5UV0dSVFlURndiMVpzVm5kTlJscElUbGRHYUZZd2NGWlZiVEExVjIxS1dGVnFTbFpoYTNCUVZURmFUMlJXWkhSU2JFNVRaVzFuTUE9PQ
+declare -gx REPLIT_DB_URL=https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE3MzQ5OTYyMTIsImlhdCI6MTczNDg4NDYxMiwiZGF0YWJhc2VfaWQiOiI0N2ZhNGNjNy1mYjllLTRjMWItYWE0Yy1lZWJiOGI4ZDQ4NmMifQ.-hAHMNgO9NpK60-WUPQ3Mpt8PGixCNQB7tL04Wr75THzTtzYFwK-qX_F6e-0eC8n9AbxpF94J5p3rCfUuZtKUg
+declare -gx REPLIT_CLUSTER=kirk
+declare -gx REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPL_OWNER=emily09ey
+declare -gx DENO_TLS_CA_STORE=system
+declare -gx DOCKER_CONFIG=/home/runner/MealyWindingCones/.config/docker
+declare -gx GIT_EDITOR=replit-git-editor
+declare -gx NODE_EXTRA_CA_CERTS=/etc/ssl/certs/ca-certificates.crt
+declare -gx NIX_PATH=nixpkgs=/home/runner/.nix-defexpr/channels/nixpkgs-stable-23_11:/home/runner/.nix-defexpr/channels
+declare -gx LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+declare -gx LIBGL_DRIVERS_PATH=/nix/store/141m63y55hh07jcry2lk5w2x5x5bg0b0-mesa-24.2.6-drivers/lib/dri
+declare -gx REPL_IDENTITY_KEY=k2.secret.thJqxfytfj8sjktG5s6BbqFc3d2sbxw-YuGZ5NtQb65D_ZRgHStCXkBHOd9jyK95g33ycVUT6VIjRKEjBF1nww
+declare -gx REPLIT_DOMAINS=47fa4cc7-fb9e-4c1b-aa4c-eebb8b8d486c-00-3076pp93gv8fb.kirk.replit.dev
+read -r _new_path <<< "/nix/store/cgnd01lyr8ighrc87wi9pz1bsgyvch17-pid1/bin:/nix/store/sy2g26yjwjczrkjzfsscmafh81bvrj9k-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+#PATH=/nix/store/cgnd01lyr8ighrc87wi9pz1bsgyvch17-pid1/bin:/nix/store/sy2g26yjwjczrkjzfsscmafh81bvrj9k-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx PATH="${_user_components}${_new_path}"
+declare -gx REPLIT_CLI=/nix/store/nvrpmgcn43hvnym5y6hlf1kpddi8pd26-pid1-0.0.1/bin/replit
+declare -gx NIX_PROFILES='/nix/var/nix/profiles/default /home/runner/.nix-profile'
+declare -gx __EGL_VENDOR_LIBRARY_FILENAMES=/nix/store/141m63y55hh07jcry2lk5w2x5x5bg0b0-mesa-24.2.6-drivers/share/glvnd/egl_vendor.d/50_mesa.json
+declare -gx REPL_SLUG=MealyWindingCones
